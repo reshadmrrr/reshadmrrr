@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-<p>Hi, I'm Monayam Reshad. Currently, I'm pursuing my degree on Computer Science and Engineering.</p>
+<p>Hi, I'm Monayam Reshad. Currently, I'm pursuing my bachelor's degree on Computer Science and Engineering.</p>
 
 <p>📫 Here's how you can reach me: ...</p>
 <p>
@@ -16,13 +16,13 @@
 Here are some ideas to get you started:
 <ul>
   <li>
-    <b>🔭 Currently working on:</b> <b><i>Cross-Platform Apps</b></i> (Flutter) <b>Data Science</b> <b>python</b>.
+    <b>🔭 Currently working on:</b> <b><i>Cross-Platform Apps</b></i> (Flutter) <b><i>Data Science</i></b> (Python)
   </li>
   <li>
     <b>🌱 Getting better at:  </b>  Application UI/UX and Coding Pattern.
   </li>
   <li>
-    <b>🤔 Exploring: </b> Application Design Patterns and Data Science.
+    <b>🤔 Exploring: </b> Application Design Patterns, Software Architecture and Data Science.
   </li>
   <li>
     <b>⚗️ Experimenting on: </b> Improving the efficiency of my code and Design Patterns.
