@@ -16,10 +16,10 @@
 Here are some ideas to get you started:
 <ul>
   <li>
-    <b>🔭 Currently working on:</b> <b><i>Cross-Platform Apps</b></i> (Flutter) <b><i>Data Science</i></b> (Python)
+    <b>🔭 Currently working on:</b> <b><i>Cross-Platform Apps</b></i> (Flutter) <b><i>Data Science</i></b> (Python) <b><i>Web Development</i></b> (Django)
   </li>
   <li>
-    <b>🌱 Getting better at:  </b>  Application UI/UX and Coding Pattern.
+    <b>🌱 Getting better at:  </b> 1. Application UI/UX and Design Pattern, 2. Backend/Database
   </li>
   <li>
     <b>🤔 Exploring: </b> Application Design Patterns, Software Architecture and Data Science.
