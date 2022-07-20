@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-<p>Hi, I'm Monayam Reshad. Currently, I'm pursuing my bachelor's degree on Computer Science and Engineering.</p>
+<p>Hi, I'm Monayam Reshad. Currently, a Software Engineer trying to add value to peoples life.</p>
 
 <p>📫 Here's how you can reach me: ...</p>
 <p>
