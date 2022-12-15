@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 <ul>
   <li>
     <b>🔭 Currently working on Full-Stack Software Development:</b> 
-      <li><b><i>Cross-Platform Apps</b></i> (Flutter) </li>
-      <li><b><i>Web Apps</i></b> (Django, Flask, Node, React) </li> 
-      <li><b><i>DevOps</b></i> (Docker, Kubernetes) </li>
-      <li><b><i>Data Science - NLP</i></b> (Python) </li>
+      <ul>
+        <li><b><i>Cross-Platform Apps</b></i> (Flutter) </li>
+        <li><b><i>Web Apps</i></b> (Django, Flask, Node, React) </li> 
+        <li><b><i>DevOps</b></i> (Docker, Kubernetes) </li>
+        <li><b><i>Data Science - NLP</i></b> (Python) </li>  
+      </ul>
   </li>
   <li>
     <b>🌱 Getting better at:  </b> 1. DevOps, 2. Backend/Database, 3. Application UI/UX and Design Pattern
