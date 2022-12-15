@@ -16,13 +16,13 @@
 Here are some ideas to get you started:
 <ul>
   <li>
-    <b>🔭 Currently working on:</b> <b><i>Cross-Platform Apps</b></i> (Flutter) <b><i>Data Science</i></b> (Python) <b><i>Web Development</i></b> (Django)
+    <b>🔭 Currently working on Full-Stack Software Development:</b> <b><i>Cross-Platform Apps</b></i> (Flutter) <b><i>Web Apps</i></b> (Django, Flask, Node, React) <b><i>DevOps</b></i> (Docker, Kubernetes) <b><i>Data Science</i></b> (Python) 
   </li>
   <li>
-    <b>🌱 Getting better at:  </b> 1. Application UI/UX and Design Pattern, 2. Backend/Database
+    <b>🌱 Getting better at:  </b> 1. DevOps, 2. Backend/Database, 3. Application UI/UX and Design Pattern
   </li>
   <li>
-    <b>🤔 Exploring: </b> Application Design Patterns, Software Architecture and Data Science.
+    <b>🤔 Exploring: </b> Project Management, DevOps, Software Architecture and Data Science.
   </li>
   <li>
     <b>⚗️ Experimenting on: </b> Improving the efficiency of my code and Design Patterns.
