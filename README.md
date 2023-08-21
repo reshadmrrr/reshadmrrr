@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <ul>
         <li><b><i>Cross-Platform Apps</b></i> (Flutter) </li>
         <li><b><i>Web Apps</i></b> (Django, Flask, Node, React) </li> 
-        <li><b><i>DevOps</b></i> </li>
+        <li><b><i>DevOps</b></i>(Docker, Ansible, Jenkins, Scripting)</li>
         <li><b><i>Data Science - NLP</i></b> (Python) </li>  
       </ul>
   </li>
