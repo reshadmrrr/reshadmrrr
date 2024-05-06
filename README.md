@@ -1,6 +1,6 @@
 
 <h3>Hi there 👋</h3>
-<p>Hi, I'm Monayam Reshad. Currently, a Software Engineer working for 3 years and trying to add value to people's life.</p>
+<p>Hi, I'm Monayam Reshad. I am a Software Engineer working for around 4 years and trying to add value to people's lives.</p>
 <p>📫 Here's how you can reach me: ...</p>
 <p>
     <a href="https://www.twitter.com/reshadmrrr">
@@ -24,16 +24,17 @@ Here are some ideas to get you started:
   <li>
     <b>🔭 Currently working on Full-Stack Software Development:</b> 
       <ul>
-        <li><b><i>Cross-Platform Apps</b></i> (Flutter) </li>
-        <li><b><i>Web Apps</i></b> (Django, Flask, Node, React) </li> 
-        <li><b><i>DevOps</b></i>(Docker, Ansible, Jenkins, Scripting)</li>
-        <li><b><i>Data Science - NLP</i></b> (Python) </li>  
+        <li><b><i>Cross-Platform Apps</b></i> (Flutter, React Native) </li>
+        <li><b><i>Web Apps</i></b> (Django, Flask, FastAPI, Node, React) </li> 
+        <li><b><i>DevOps</b></i>(Docker, Ansible, Jenkins, Scripting, Terraform, AWS, GCP, Kubernetes)</li>
+        <li><b><i>Data Science - NLP</i></b> (Python, Scikit-learn, NLTK, Spacy, Gensim, Ekphrasis) </li>  
       </ul>
   </li>
   <li>
     <b>🌱 Getting better at:  </b>
     <ul>
         DevOps,
+	System Design,
         Backend/Database,
         Design Pattern,
         Application UI/UX
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
     <a href="mailto:reshadmrrr@gmail.com">send an email</a> or get connected with my social media accounts
   </li>
   <li>
-    <b>⚡ Fun fact:  </b>You'll get to know after meeting me in person.
+    <b>⚡ Fun fact:  </b>You'll get to know me after meeting me in person.
   </li>  
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=reshadmrrr&show_icons=true&include_all_commits=true">
