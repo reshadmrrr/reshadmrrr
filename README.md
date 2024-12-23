@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <li>
     <b>🌱 Getting better at:  </b>
     <ul>
-	Site Relibility Engineering
+	Site Relibility Engineering,
         DevOps,
 	System Design,
         Backend/Database,
